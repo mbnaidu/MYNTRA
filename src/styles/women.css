@@ -1,0 +1,16 @@
+.women{
+    margin:22px;
+}
+.cardImg {
+    padding:8px 30px 8px 30px ;
+}
+.cardTitle {
+    padding-top: 5px;
+    padding-left: 80px;
+}
+.butt{
+    padding-left: 800px;
+}
+.butt > button {
+    margin-top: 30px;
+}
